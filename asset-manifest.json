@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Kalliandru/rpg-lendas-piloto.git/static/css/main.b325f374.chunk.css",
+    "main.js": "/Kalliandru/rpg-lendas-piloto.git/static/js/main.bfafdfd2.chunk.js",
+    "main.js.map": "/Kalliandru/rpg-lendas-piloto.git/static/js/main.bfafdfd2.chunk.js.map",
+    "runtime-main.js": "/Kalliandru/rpg-lendas-piloto.git/static/js/runtime-main.53d8173d.js",
+    "runtime-main.js.map": "/Kalliandru/rpg-lendas-piloto.git/static/js/runtime-main.53d8173d.js.map",
+    "static/js/2.7394a585.chunk.js": "/Kalliandru/rpg-lendas-piloto.git/static/js/2.7394a585.chunk.js",
+    "static/js/2.7394a585.chunk.js.map": "/Kalliandru/rpg-lendas-piloto.git/static/js/2.7394a585.chunk.js.map",
+    "index.html": "/Kalliandru/rpg-lendas-piloto.git/index.html",
+    "precache-manifest.d0b7d5bc7075a0aec878aeae748bdc2c.js": "/Kalliandru/rpg-lendas-piloto.git/precache-manifest.d0b7d5bc7075a0aec878aeae748bdc2c.js",
+    "service-worker.js": "/Kalliandru/rpg-lendas-piloto.git/service-worker.js",
+    "static/css/main.b325f374.chunk.css.map": "/Kalliandru/rpg-lendas-piloto.git/static/css/main.b325f374.chunk.css.map",
+    "static/js/2.7394a585.chunk.js.LICENSE.txt": "/Kalliandru/rpg-lendas-piloto.git/static/js/2.7394a585.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Kalliandru/rpg-lendas-piloto.git/static/media/bg Lendas.cb4cba90.jpg",
+    "static/media/insta.png": "/Kalliandru/rpg-lendas-piloto.git/static/media/insta.4a8c2347.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d8173d.js",
+    "static/js/2.7394a585.chunk.js",
+    "static/css/main.b325f374.chunk.css",
+    "static/js/main.bfafdfd2.chunk.js"
+  ]
+}
